@@ -13,8 +13,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/discord-0a66c2)](https://discordapp.com/users/1329899250758451300)
-[![](https://img.shields.io/badge/discord-0f98c9)](https://discordapp.com/users/744985624674697417)
+[![](https://img.shields.io/badge/discord-0a66c2)](https://discordapp.com/users/1353403029277380700)
 [![](https://img.shields.io/badge/spotify-0a66c2)](https://open.spotify.com/user/ugxhog7xmrd12fkjhtosjaza6?si=790f3319e9d24e1f)
 
 </div>
